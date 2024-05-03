@@ -2,7 +2,6 @@ import re
 import requests
 from bs4 import BeautifulSoup
 
-# Define the URL of the Apple website to scrape
 url = 'https://velvetwatches.com'
 
 try:
