@@ -39,8 +39,7 @@ try:
         else:
             print("\nEmails: NA")
 
-        # Section: Phone Numbers (Not applicable for Apple website)
-        print("\nPhone Numbers: NA")
+            print("\nPhone Numbers: NA")
 
         # Section: Social Media Links
         social_media_links = []
