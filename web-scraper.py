@@ -8,7 +8,6 @@ url = 'https://velvetwatches.com'
 try:
     # Send a GET request to the website
     response = requests.get(url)
-
     # Check if the request was successful (status code 200)
     if response.status_code == 200:
         # Parse the HTML content of the page
