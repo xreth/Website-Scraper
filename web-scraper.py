@@ -13,7 +13,6 @@ try:
         # Parse the HTML content of the page
         soup = BeautifulSoup(response.text, 'html.parser')
 
-        # Section: Article Titles
         # Find all the article titles
         article_titles = soup.find_all('h2', class_='headline')
 
