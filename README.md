@@ -10,4 +10,4 @@
 <p>Web scrapers are Python programs designed to extract data from websites. They work by sending HTTP requests to the target website and parsing the HTML or XML content returned in response. Using libraries like BeautifulSoup or Scrapy, web scrapers can navigate through the website's structure, identifying and extracting specific pieces of information such as text, images, or links. Once the desired data is collected, it can be further processed, analyzed, or stored for various purposes, such as data mining, market research, or building datasets for machine learning models. Web scrapers provide a powerful means of automating the process of gathering data from the vast realm of the internet, enabling developers and researchers to access valuable information efficiently.
 </p>
 
-<img src="[![Uploading 1 nHfayfdmxAApbg84iMrJqQ.gif…]()](https://miro.medium.com/v2/resize:fit:1024/1*nHfayfdmxAApbg84iMrJqQ.gif)">
+<img src="https://miro.medium.com/v2/resize:fit:1024/1*nHfayfdmxAApbg84iMrJqQ.gif">
