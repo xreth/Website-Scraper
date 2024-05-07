@@ -1,5 +1,4 @@
 <h2 align="left">Python Web Scraper</h2>
-<br>
 <h2 align="left">A Web Scraper built to help you find out everything about any website.</h2>
 <p align="left">
 </p>
