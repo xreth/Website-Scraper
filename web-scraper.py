@@ -5,7 +5,6 @@ from bs4 import BeautifulSoup
 #Website
 url = 'https://velvetwatches.com'
 
-
 try:
     # Send a GET request to the website
     response = requests.get(url)
