@@ -24,7 +24,6 @@ try:
         else:
             print("Article Titles: NA")
 
-        # Section: Emails
         # Find all email addresses using regular expression
         email_pattern = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
         emails = re.findall(email_pattern, response.text)
