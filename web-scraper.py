@@ -2,7 +2,7 @@ import re
 import requests
 from bs4 import BeautifulSoup
 
-#we
+#web
 url = 'https://velvetwatches.com'
 
 try:
