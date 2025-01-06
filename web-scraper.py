@@ -51,6 +51,7 @@ try:
             r'youtube.com'
         ]
 
+        
         for link in social_links:
             for pattern in social_patterns:
                 if re.search(pattern, link['href'], re.IGNORECASE):
