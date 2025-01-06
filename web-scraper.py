@@ -3,7 +3,6 @@ import requests
 from bs4 import BeautifulSoup
 
 #web
-
 url = 'https://velvetwatches.com'
 
 try:
