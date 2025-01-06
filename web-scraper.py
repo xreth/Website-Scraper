@@ -41,7 +41,6 @@ try:
         # Section: Social Media Links
         social_media_links = []
 
-
         # Find social media links
         social_links = soup.find_all('a', href=True)
         social_patterns = [
