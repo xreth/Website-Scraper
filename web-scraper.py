@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 #web
 url = 'https://velvetwatches.com'
-
+ 
 
 try:
     # Send a GET request to the website
